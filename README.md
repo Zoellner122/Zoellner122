@@ -8,4 +8,4 @@ As you can see I don't really code. I do want to code more and start learning ab
 
 ## Certifications / Badges
 
-![https://www.credly.com/badges/0e266734-ec5f-41b3-93fa-92ba7f669874/public_url](./content/hashicorp-certified-terraform-associate-002.png)
+[![HashiCorp Certified Terraform Associate](./content/hashicorp-certified-terraform-associate-002.png)](https://www.credly.com/badges/0e266734-ec5f-41b3-93fa-92ba7f669874/public_url)
