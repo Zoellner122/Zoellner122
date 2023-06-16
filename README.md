@@ -1,7 +1,7 @@
 # Zoellner122
 
 ## About me!
-(https://media1.tenor.com/images/f6a9c0b8de06b51ed907fe72d25f3254/tenor.gif?itemid=11889197)
+[(https://media1.tenor.com/images/f6a9c0b8de06b51ed907fe72d25f3254/tenor.gif?itemid=11889197)]
 
 ## Certifications / Badges
 
