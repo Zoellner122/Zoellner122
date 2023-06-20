@@ -3,7 +3,7 @@
 ## About me!
 ![](https://media1.tenor.com/images/f6a9c0b8de06b51ed907fe72d25f3254/tenor.gif?itemid=11889197)
 
-I'm Rick (he/they, :rainbow:), 26 years olf from the Netherlands
+I'm Rick (he/they, :rainbow:), 26 years old, living in Tilburg, the Netherlands.
 I am a Engineer that is specialising themselves with Infra-as-Code and Automation;
 
 
