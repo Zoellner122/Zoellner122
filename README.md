@@ -12,7 +12,13 @@ Because they heard there was a high chance of "server" storms! ☁️⚡️🌂
 
 🚀 I'm committed to continually expanding my skill set and staying up to date with the latest advancements in cloud technologies. Let's collaborate and create efficient and scalable infrastructure together! Feel free to reach out to me.
 
-🚀 I'm also an avid fan of 📦 NixOS and 🐧 ArchLinux distributions! Their simplicity and flexibility resonate with me, allowing me to fully customize and optimize my development environment. Additionally, I love exploring and experimenting with various 🪟 Tiling Window Managers to achieve a highly productive and organized workflow.
+🌌 Passionate about Distros and Tiling Window Managers 🪟🐧
+
+When I'm not busy wrangling clouds, you can find me diving into the fascinating world of Linux distributions! 🐧💻 NixOS and Arch have stolen my heart with their elegance and flexibility. Embracing the power of declarative package management and customizable configurations, NixOS brings harmony to my development environment. Meanwhile, ArchLinux's simplicity and DIY spirit keep me constantly tinkering and learning new tricks.
+
+But that's not all! I'm also an avid fan of tiling window managers, because who needs to waste time manually arranging windows when you can have them neatly fit together like puzzle pieces? 🧩💼 BSPWM is my trusty WM companion, making multitasking a breeze and keeping my desktop organized like a well-orchestrated symphony.
+
+So, whether it's crafting cloud infrastructure or exploring the wonders of Linux distributions and tiling window managers, I'm always excited to geek out and share my love for technology! Let's chat about the latest tech trends over a cup of ☕ or even venture into the mystical realms of the command line together! 🚀😄
 
 ## 📜 Certifications / Badges
 
