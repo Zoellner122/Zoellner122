@@ -10,8 +10,9 @@ Because they heard there was a high chance of "server" storms! ☁️⚡️🌂
 
 💻 I thrive on working with cutting-edge technologies, including Terraform, Kubernetes, and Ansible. These tools form the foundation of my expertise, enabling me to design and build resilient cloud architectures.
 
-
 🚀 I'm committed to continually expanding my skill set and staying up to date with the latest advancements in cloud technologies. Let's collaborate and create efficient and scalable infrastructure together! Feel free to reach out to me.
+
+🚀 I'm also an avid fan of 📦 NixOS and 🐧 ArchLinux distributions! Their simplicity and flexibility resonate with me, allowing me to fully customize and optimize my development environment. Additionally, I love exploring and experimenting with various 🪟 Tiling Window Managers to achieve a highly productive and organized workflow.
 
 ## 📜 Certifications / Badges
 
