@@ -1,7 +1,6 @@
 # Zoellner122
 
-Why did the cloud engineer bring an umbrella to work?
-Because they heard there was a high chance of "server" storms! ☁️⚡️🌂
+### Why did the cloud engineer bring an umbrella to work? Because they heard there was a high chance of "server" storms! ☁️⚡️🌂
 
 ## About me!
 ![](https://media1.tenor.com/images/f6a9c0b8de06b51ed907fe72d25f3254/tenor.gif?itemid=11889197)
