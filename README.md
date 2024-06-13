@@ -4,7 +4,7 @@
 ## About me!
 ![](https://media1.tenor.com/images/f6a9c0b8de06b51ed907fe72d25f3254/tenor.gif?itemid=11889197)
 
-🌈👋 Hello, I'm Rick (he/they), a 26-year-old Cloud Engineer based in Tilburg, the Netherlands. My passion lies in leveraging Infra-as-Code and Automation to create robust and scalable cloud infrastructure.
+🌈👋 Hello, I'm Rick (he/they), a 27-year-old Cloud Engineer based in Tilburg, the Netherlands. My passion lies in leveraging Infra-as-Code and Automation to create robust and scalable cloud infrastructure.
 
 💻 I thrive on working with cutting-edge technologies, including Terraform, Kubernetes, and Ansible. These tools form the foundation of my expertise, enabling me to design and build resilient cloud architectures.
 
